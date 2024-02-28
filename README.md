@@ -11,9 +11,9 @@ note - if an avatar is scanned it will not be scanned on the future utile the ca
 note - the scan.txt file is used to not scan the same avatar over again its just a list of scanned path  
 _________________________________________________________________  
 # DEPANDENCY  
-python 3 https://apps.microsoft.com/detail/9ncvdn91xzqp?hl=en-US&gl=US  
+python 3 https://apps.microsoft.com/detail/9ncvdn91xzqp
 after installing python you will need to run a command  
-in CMD run >pip install requests
+in CMD run > pip install requests
 _________________________________________________________________  
 # CONFIGURATION  
 THIS SCRIPT WILL NOT WORK IF ITS NOT SETUP PROPERLY  
