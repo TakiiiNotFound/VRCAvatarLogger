@@ -1,0 +1,14 @@
+SO to get the auth token
+
+1 go to vrchat website https://vrchat.com/home
+
+2 login if not already
+
+3 press "ctrl+shift+i"
+
+4 on the debug page clic on application
+
+5 go to Cookie>https://vrchat.com and clic on auth
+
+your auth token should show on the bottom of your screen
+it should start with authcookie_
