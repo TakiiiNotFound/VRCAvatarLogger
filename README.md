@@ -14,7 +14,7 @@ _________________________________________________________________
 THIS SCRIPT WILL NOT WORK IF ITS NOT SETUP PROPERLY  
   
 - line 75 VRC Auth  
-ramplace the AUTH COOKIE HERE by your auth cookie (if you dont know what it is check in the file called auth.txt in github its a tuto)  
+ramplace the AUTH COOKIE HERE by your auth cookie (if you dont know what it is check in the file called auth in github its a tuto)  
 - line 99 VRC cache  
 you will need to ramplace "YOUR VRC CACHE PATH" but your actualy vrc cache path (default location at C:\User\{your username}\AppData\LocalLow\VRChat\VRChat\Cache-WindowsPlayer  
 - line 100 scan.txt  
