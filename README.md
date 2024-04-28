@@ -1,5 +1,5 @@
 # VRCAvatarLogger  
-script allowing you to log any avatar your game load to discord  
+VRC Avatar Logger is a simple to use and open source python script that will scan you game cache and send avatar's info to your discord server
 _________________________________________________________________  
 # PREVIEW  
 ![Capture](https://github.com/TakiiiNotFound/VRCAvatarLogger/assets/82332813/ee414192-4867-4c67-828a-170dba548ead)
