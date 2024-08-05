@@ -21,3 +21,5 @@ chat gpt has been used on this project to fix many of my issue "im the best dev 
 _______________________________________________________________  
 # ANY BUG?
 if there is any issue please contact me on discord @takiiiokana
+
+know issue in windows 11 the script wont work for some raison fix on the way
